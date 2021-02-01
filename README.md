@@ -1,0 +1,1 @@
+This is an example for a Rust compiler bug introduced with the version `nightly-2021-01-30`.
